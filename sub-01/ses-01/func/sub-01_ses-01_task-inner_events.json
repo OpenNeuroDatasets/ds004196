@@ -1,5 +1,5 @@
 {
-    "trial_type": {
+    "TRIAL_TYPE": {
         "LongName": "Event category",
         "Description": "Indicator of type of action that is expected",
         "Levels": {
