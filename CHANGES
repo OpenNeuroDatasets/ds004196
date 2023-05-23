@@ -1,3 +1,5 @@
+2.0.0 2023-05-23
+  - warning messages resolved, eeg.json file added, electrode and channel information file added 
 1.0.29 2023-05-20
   - v4.2
 1.0.28 2023-05-19
